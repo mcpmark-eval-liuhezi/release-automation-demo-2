@@ -15,3 +15,5 @@ commit and you can verify each step yourself.
 - The pull request that brings `CONTRIBUTING.md` into this repository, along
   with its review and line-pinned comments.
 - The squashed merge commit on `main` that lands the whole branch as one commit.
+
+Sandbox note: everything here is disposable demo content — expect it to change without warning.
